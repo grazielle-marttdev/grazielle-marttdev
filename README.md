@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Grazielle MarttDev 😁
+## Bem-vindo(a) ao perfil de Grazielle MarttDev 😁
 
  <div>
    <a href="https://github.com/grazielle-marttdev">
