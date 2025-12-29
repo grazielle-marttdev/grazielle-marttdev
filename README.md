@@ -16,7 +16,7 @@ Olá! Me chamo Grazielle e sou estudante de Desenvolvimento Web, genuinamente ap
   <a href="https://www.youtube.com/@grazielle_a-m" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/users/1334477879739809895" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="mailto:gzm8martins@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/grazielle-martins-557b61334" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/grazielle-martins-557b61334/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ### ✨ Sempre aprendendo e evoluindo
