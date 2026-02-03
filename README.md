@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil! 🥀✨
 
-Olá! Me chamo Grazielle e sou estudante de Desenvolvimento Web, genuinamente apaixonada por tecnologia, pelo front-end e sempre em busca de aprender mais e criar projetos que me desafiem. Atualmente, estou me dedicando a construir portfólio e aprimorar minhas habilidades tanto na parte técnica, quanto na parte comportamental e pessoal. ☺️🦋
+Olá! Meu nome é Grazielle e sou estudante de Desenvolvimento Web, em formação pela Anhanguera e pelo DevQuest, com foco atual em front-end (HTML, CSS, JavaScript, TypeScript e React). Possuo interesse em ampliar meu conhecimentos em back-end, incluindo banco de dados e SQL. Aprendo de forma constante, priorizando clareza, base técnica sólida, revisões periódicas e prática por meio de projetos pessoais e desafios do curso. Busco minha primeira oportunidade como desenvolvedora júnior, com o objetivo de evoluir tecnicamente, desenvolver habilidades de trabalho em equipe e contribuir na criação de aplicações úteis e bem estruturadas. ☺️🦋
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
